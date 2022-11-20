@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Phoenix-97
+- 👀 I’m interested in quantum mechanics
+- 🌱 I’m currently learning materials science
+- 💞️ I’m looking to collaborate on modeling and simulation at nano scale (quantum molecular dynamics and classical molecular dynamics simulation)
